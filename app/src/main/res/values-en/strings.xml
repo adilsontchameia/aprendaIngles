@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aprenda Ingles</string>
+    <string name="animais">Animals</string>
+    <string name="numeros">Numbers</string>
+    <string name="vogais">Vowels</string>
+    <string name="titulo">English for Kids</string>
+</resources>
